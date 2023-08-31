@@ -6,7 +6,7 @@ body::after {
   height: 0;
   overflow: hidden;
   z-index: -1;
-  content: url(assets/face-animation-light/tl-1.png)
+  content: url(/assets/face-animation-light/tl-1.png)
     url(assets/face-animation-light/tl-2.png)
     url(assets/face-animation-light/tl-3.png)
     url(assets/face-animation-light/tl-4.png)
@@ -59,7 +59,7 @@ body::after {
   --text-alt: #fff;
 
   /* Face animations */
-  --tl-1: url(assets/face-animation-light/tl-1.png);
+  --tl-1: url(/assets/face-animation-light/tl-1.png);
   --tl-2: url(assets/face-animation-light/tl-2.png);
   --tl-3: url(assets/face-animation-light/tl-3.png);
   --tl-4: url(assets/face-animation-light/tl-4.png);
@@ -97,7 +97,7 @@ body::after {
   --text: #fff;
 
   /* Face animations */
-  --tl-1: url(assets/face-animation-dark/tlw-1.png);
+  --tl-1: url(/assets/face-animation-dark/tlw-1.png);
   --tl-2: url(assets/face-animation-dark/tlw-2.png);
   --tl-3: url(assets/face-animation-dark/tlw-3.png);
   --tl-4: url(assets/face-animation-dark/tlw-4.png);
